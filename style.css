@@ -1,0 +1,31 @@
+body {
+  background:#8D6E63;
+      text-align: center;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius:45px;
+  margin-left:500px;
+}
+
+.cable {
+    list-style: disc;
+    font-family:cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.link {
+    list-style: circle;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right:10px;
+}
+
+.link:hover{
+    background-color: burlywood;
+}
